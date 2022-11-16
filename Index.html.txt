@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="with=device-width,intial-scale=1.0">
+    <title>Covid appliction</title>
+    <link rel="Stylesheet" href="Style.css">
+</head>
+<body>
+    <section class="header">
+    
+
+    </section>
+
+</body>
+</html>
